@@ -1,6 +1,6 @@
 ## Hello Simon here👋
 
-![Display GIF](display.gif)
+![Display GIF](images/display.gif)
 
 I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game-changing solutions. Always open to collaborate. Let's build something amazing 😊
 
