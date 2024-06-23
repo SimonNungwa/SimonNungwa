@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate developer from Nigeria</h3>
+<h3 align="center">I'm an indiw software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonnungwa" alt="simonnungwa" /></a> </p>
 
@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Blockchain development.**
 
-- 📝 I regularly write articles on [https://dev.to/simon_nungwa_9597c9315a6d](https://dev.to/simon_nungwa_9597c9315a6d)
+- 📝 I  write articles [here](https://dev.to/simon_nungwa_9597c9315a6d)
+- 🔗 Let's conect on  [here](https://www.linkedin.com/in/simon-nungwa/)
 
 - 💬I'll take questions on **Ethereum and solidity.**
 
