@@ -1,8 +1,8 @@
-## Hello Simon here👋
+<div align="center">
+  <h2>Hello Simon here👋</h2>
+</div>
 
-![image]([/assets/disp.png](https://github.com/SimonNungwa/SimonNungwa/assets/disp.png))
-
-
+![Display Image](assets/disp.png)
 
 I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game-changing solutions. Always open to collaborate. Let's build something amazing 😊
 
