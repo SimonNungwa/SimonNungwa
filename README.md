@@ -2,24 +2,8 @@
 
 ![Display GIF](display.gif)
 
-I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game changing solutions. Always open to collaborate. Lets build something amazing 😊
+I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game-changing solutions. Always open to collaborate. Let's build something amazing 😊
 
 ## Here's where to find me
-• I'll post insightful content [here](https://dev.to/simon_nungwa_9597c9315a6d)
-• Let's connect on [LinkedIn](https://www.linkedin.com/in/simon-nungwa-188b532a7/)
-
-
-<!--
-**SimonNungwa/SimonNungwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'll post insightful content [here](https://dev.to/simon_nungwa_9597c9315a6d)
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/simon-nungwa-188b532a7/)
