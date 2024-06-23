@@ -11,7 +11,8 @@
 
 - 💬I'll take questions on **Ethereum and solidity.**
 
-- 📫 How to reach me **simonnungwa99@gmail.com**
+- 📫 Email me <a href="mailto:simonnungwa99@gmail.com">here</a>
+
 
 - ⚡ Fun fact **I love anime and chess.**
 
