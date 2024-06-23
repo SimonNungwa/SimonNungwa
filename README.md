@@ -14,12 +14,12 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/SimonNungwa/Swap">a digital marketplace</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/SimonNungwa/Swap">a digital marketplace</a>.</li>
   <li>🌱 I’m currently learning <strong>Blockchain development.</strong></li>
-  <li>📝 Check out my <a href="https://dev.to/simon_nungwa_9597c9315a6d">articles</a></li>
-  <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/simon-nungwa/">LinkedIn</a></li>
+  <li>📝 Check out my <a href="https://dev.to/simon_nungwa_9597c9315a6d">articles</a>.</li>
+  <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/simon-nungwa/">LinkedIn</a>.</li>
   <li>💬 I'll take questions on <strong>Ethereum and Solidity.</strong></li>
-  <li>📫 How to reach me: <strong>simonnungwa99@gmail.com</strong></li>
+  <li>📫 How to reach me: <strong>simonnungwa99@gmail.com</strong>.</li>
   <li>⚡ Fun fact: <strong>I love anime and chess.</strong></li>
 </ul>
 
