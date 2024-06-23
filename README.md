@@ -1,6 +1,7 @@
 ## Hello Simon here👋
 
-![Display GIF](images/display.gif)
+![image](https://github.com/SimonNungwa/SimonNungwa/assets/173578662/953589a7-09f1-48c9-9207-5389738375d3)
+
 
 I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game-changing solutions. Always open to collaborate. Let's build something amazing 😊
 
