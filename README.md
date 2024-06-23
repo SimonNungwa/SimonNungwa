@@ -1,6 +1,9 @@
 ## Hello Simon here👋
 
-I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my full stack skills to create innovative and game changing solutions. Always open to collaborate. Lets build something amazing 😊
+I am an indie software developer really enthusiastic about contributing to open source projects. I love to leverage my MERN stack skills to create innovative and game changing solutions. Always open to collaborate. Lets build something amazing 😊
+
+## Here's where to find me
+I'll post insightful content [here](https://dev.to/simon_nungwa_9597c9315a6d)
 
 <!--
 **SimonNungwa/SimonNungwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
