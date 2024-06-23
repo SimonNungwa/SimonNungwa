@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">I'm an indie Software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonnungwa" alt="simonnungwa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/simonnungwa" target="blank"><img src="https://img.shields.io/twitter/follow/simonnungwa?logo=twitter&style=for-the-badge" alt="simonnungwa" /></a> </p>
 
 - 🔭 I’m currently working on [a digital marketplace](https://github.com/SimonNungwa/Swap)
 
